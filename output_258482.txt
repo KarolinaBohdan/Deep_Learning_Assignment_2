@@ -1,0 +1,58 @@
+>>> Loading Data...
+>>> Merged Gold Labels. 100 human labels found.
+>>> Train size: 35000 | Eval size: 7500
+>>> Tokenizing...
+>>> Initializing Model...
+>>> Starting Training...
+{'loss': '0.6227', 'grad_norm': '3.387', 'learning_rate': '1.955e-05', 'epoch': '0.02285'}
+{'loss': '0.5443', 'grad_norm': '1.88', 'learning_rate': '1.91e-05', 'epoch': '0.0457'}
+{'loss': '0.5038', 'grad_norm': '1.939', 'learning_rate': '1.864e-05', 'epoch': '0.06856'}
+{'loss': '0.5055', 'grad_norm': '4.263', 'learning_rate': '1.818e-05', 'epoch': '0.09141'}
+{'loss': '0.4904', 'grad_norm': '5.635', 'learning_rate': '1.772e-05', 'epoch': '0.1143'}
+{'loss': '0.4936', 'grad_norm': '3.149', 'learning_rate': '1.727e-05', 'epoch': '0.1371'}
+{'loss': '0.452', 'grad_norm': '3.493', 'learning_rate': '1.681e-05', 'epoch': '0.16'}
+{'loss': '0.4709', 'grad_norm': '2.773', 'learning_rate': '1.635e-05', 'epoch': '0.1828'}
+{'loss': '0.463', 'grad_norm': '3.744', 'learning_rate': '1.59e-05', 'epoch': '0.2057'}
+{'loss': '0.4645', 'grad_norm': '1.752', 'learning_rate': '1.544e-05', 'epoch': '0.2285'}
+{'loss': '0.4524', 'grad_norm': '4.76', 'learning_rate': '1.498e-05', 'epoch': '0.2514'}
+{'loss': '0.4455', 'grad_norm': '4.357', 'learning_rate': '1.452e-05', 'epoch': '0.2742'}
+{'loss': '0.4586', 'grad_norm': '2.421', 'learning_rate': '1.407e-05', 'epoch': '0.2971'}
+{'loss': '0.5001', 'grad_norm': '2.28', 'learning_rate': '1.361e-05', 'epoch': '0.3199'}
+{'loss': '0.4561', 'grad_norm': '2.783', 'learning_rate': '1.315e-05', 'epoch': '0.3428'}
+{'loss': '0.471', 'grad_norm': '1.879', 'learning_rate': '1.27e-05', 'epoch': '0.3656'}
+{'loss': '0.4358', 'grad_norm': '5.223', 'learning_rate': '1.224e-05', 'epoch': '0.3885'}
+{'loss': '0.4091', 'grad_norm': '4.425', 'learning_rate': '1.178e-05', 'epoch': '0.4113'}
+{'loss': '0.4347', 'grad_norm': '2.798', 'learning_rate': '1.133e-05', 'epoch': '0.4342'}
+{'loss': '0.4467', 'grad_norm': '5.229', 'learning_rate': '1.087e-05', 'epoch': '0.457'}
+{'loss': '0.4899', 'grad_norm': '3.639', 'learning_rate': '1.041e-05', 'epoch': '0.4799'}
+{'loss': '0.4628', 'grad_norm': '4.599', 'learning_rate': '9.954e-06', 'epoch': '0.5027'}
+{'loss': '0.4082', 'grad_norm': '2.935', 'learning_rate': '9.497e-06', 'epoch': '0.5256'}
+{'loss': '0.4769', 'grad_norm': '2.58', 'learning_rate': '9.04e-06', 'epoch': '0.5484'}
+{'loss': '0.3912', 'grad_norm': '5.402', 'learning_rate': '8.583e-06', 'epoch': '0.5713'}
+{'loss': '0.4042', 'grad_norm': '5.495', 'learning_rate': '8.126e-06', 'epoch': '0.5941'}
+{'loss': '0.4434', 'grad_norm': '3.534', 'learning_rate': '7.669e-06', 'epoch': '0.617'}
+{'loss': '0.4433', 'grad_norm': '4.166', 'learning_rate': '7.212e-06', 'epoch': '0.6399'}
+{'loss': '0.4379', 'grad_norm': '4.153', 'learning_rate': '6.755e-06', 'epoch': '0.6627'}
+{'loss': '0.4013', 'grad_norm': '7.035', 'learning_rate': '6.298e-06', 'epoch': '0.6856'}
+{'loss': '0.4363', 'grad_norm': '2.433', 'learning_rate': '5.841e-06', 'epoch': '0.7084'}
+{'loss': '0.4853', 'grad_norm': '3.835', 'learning_rate': '5.384e-06', 'epoch': '0.7313'}
+{'loss': '0.4048', 'grad_norm': '5.029', 'learning_rate': '4.927e-06', 'epoch': '0.7541'}
+{'loss': '0.4266', 'grad_norm': '5.785', 'learning_rate': '4.47e-06', 'epoch': '0.777'}
+{'loss': '0.4252', 'grad_norm': '4.249', 'learning_rate': '4.013e-06', 'epoch': '0.7998'}
+{'loss': '0.4285', 'grad_norm': '3.175', 'learning_rate': '3.556e-06', 'epoch': '0.8227'}
+{'loss': '0.4122', 'grad_norm': '5.429', 'learning_rate': '3.099e-06', 'epoch': '0.8455'}
+{'loss': '0.4362', 'grad_norm': '4.799', 'learning_rate': '2.642e-06', 'epoch': '0.8684'}
+{'loss': '0.4145', 'grad_norm': '5.207', 'learning_rate': '2.185e-06', 'epoch': '0.8912'}
+{'loss': '0.427', 'grad_norm': '2.632', 'learning_rate': '1.728e-06', 'epoch': '0.9141'}
+{'loss': '0.4144', 'grad_norm': '3.311', 'learning_rate': '1.271e-06', 'epoch': '0.9369'}
+{'loss': '0.4464', 'grad_norm': '1.964', 'learning_rate': '8.135e-07', 'epoch': '0.9598'}
+{'loss': '0.4438', 'grad_norm': '2.859', 'learning_rate': '3.565e-07', 'epoch': '0.9826'}
+{'eval_loss': '0.3946', 'eval_accuracy': '0.8197', 'eval_precision': '0.8342', 'eval_recall': '0.7972', 'eval_f1': '0.8153', 'eval_runtime': '36.26', 'eval_samples_per_second': '206.8', 'eval_steps_per_second': '6.481', 'epoch': '1'}
+{'train_runtime': '480.7', 'train_samples_per_second': '72.81', 'train_steps_per_second': '4.552', 'train_loss': '0.4531', 'epoch': '1'}
+
+>>> Evaluating on Eval Set (Silver Labels):
+{'eval_loss': 0.3945621848106384, 'eval_accuracy': 0.8197333333333333, 'eval_precision': 0.83417225950783, 'eval_recall': 0.7971672902191341, 'eval_f1': 0.8152500683246788, 'eval_runtime': 36.3927, 'eval_samples_per_second': 206.085, 'eval_steps_per_second': 6.457, 'epoch': 1.0}
+
+>>> Evaluating on Gold 100 Set (Human Labels):
+{'eval_loss': 0.7091522216796875, 'eval_accuracy': 0.62, 'eval_precision': 0.11627906976744186, 'eval_recall': 1.0, 'eval_f1': 0.20833333333333334, 'eval_runtime': 0.4661, 'eval_samples_per_second': 214.541, 'eval_steps_per_second': 8.582, 'epoch': 1.0}
+>>> Saving model to patentsberta_green_ft
